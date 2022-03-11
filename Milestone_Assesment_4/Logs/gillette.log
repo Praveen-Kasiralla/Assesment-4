@@ -1,0 +1,28 @@
+11-03-2022 11:35:45 INFO  BaseClass:19 - Gillette as opened
+11-03-2022 11:35:45 INFO  HomePage:19 - Clicking on the Terms & Conditions link in footer
+11-03-2022 11:35:47 INFO  HomePage:19 - Terms & Conditions page as opened
+11-03-2022 11:35:47 INFO  HomePage:19 - Checking if terms and conditions contains User Submissions
+11-03-2022 11:35:47 INFO  HomePage:19 - User Submissions is in the terms and conditions
+11-03-2022 11:35:52 INFO  BaseClass:19 - Gillette as opened
+11-03-2022 11:35:52 INFO  HomePage:19 - Hovering on 'About' and clicking on 'Out Story'
+11-03-2022 11:35:53 INFO  HomePage:19 - Clicking page as opened
+11-03-2022 11:35:53 INFO  HomePage:19 - Checking if our Stories contains 100 years
+11-03-2022 11:35:54 INFO  HomePage:19 - 100 years is in the 'our Stories'
+11-03-2022 11:35:57 INFO  BaseClass:19 - Gillette as opened
+11-03-2022 11:35:57 INFO  HomePage:19 - Searching for foam
+11-03-2022 11:35:59 INFO  ProductPage:19 - Checking if the name of the search heading contains 'foam'
+11-03-2022 11:35:59 INFO  ProductPage:19 - The name of the search heading contains 'foam'
+11-03-2022 11:41:57 INFO  BaseClass:19 - Gillette as opened
+11-03-2022 11:41:57 INFO  HomePage:19 - Clicking on the Terms & Conditions link in footer
+11-03-2022 11:41:59 INFO  HomePage:19 - Terms & Conditions page as opened
+11-03-2022 11:41:59 INFO  HomePage:19 - Checking if terms and conditions contains User Submissions
+11-03-2022 11:41:59 INFO  HomePage:19 - User Submissions is in the terms and conditions
+11-03-2022 11:42:05 INFO  BaseClass:19 - Gillette as opened
+11-03-2022 11:42:05 INFO  HomePage:19 - Hovering on 'About' and clicking on 'Out Story'
+11-03-2022 11:42:06 INFO  HomePage:19 - Clicking page as opened
+11-03-2022 11:42:06 INFO  HomePage:19 - Checking if our Stories contains 100 years
+11-03-2022 11:42:07 INFO  HomePage:19 - 100 years is in the 'our Stories'
+11-03-2022 11:42:10 INFO  BaseClass:19 - Gillette as opened
+11-03-2022 11:42:10 INFO  HomePage:19 - Searching for foam
+11-03-2022 11:42:12 INFO  ProductPage:19 - Checking if the name of the search heading contains 'foam'
+11-03-2022 11:42:12 INFO  ProductPage:19 - The name of the search heading contains 'foam'
